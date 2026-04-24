@@ -1,0 +1,5 @@
+# Ignore Mac system files
+.DS_Store
+
+# Ignore Exp_1 folder (submodule)
+
